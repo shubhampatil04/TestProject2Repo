@@ -1,0 +1,18 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "TestProject2Pkg",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "44.0",
+    "packageAliases": {
+        "TestProject2Pkg": "0Ho6F0000004CQxSAM",
+        "TestProject2Pkg@0.1.0-2": "04t6F0000045UaLQAU"
+    }
+}

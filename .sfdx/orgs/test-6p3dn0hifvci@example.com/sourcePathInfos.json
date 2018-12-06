@@ -1,0 +1,205 @@
+[
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544082201457,
+            "changeTime": 1544082201457,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544082201457,
+            "changeTime": 1544082201457,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544084888996,
+            "changeTime": 1544084888996,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544082201458,
+            "changeTime": 1544082201458,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544082744027,
+            "changeTime": 1544082744027,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\objects\\TestObject__c\\TestObject__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\objects\\TestObject__c\\TestObject__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2143,
+            "modifiedTime": 1544084888968,
+            "changeTime": 1544084888968,
+            "contentHash": "bcc10fbe0f8e21392b651fb7ac428e6e09949995"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\layouts\\TestObject__c-TestObject Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\layouts\\TestObject__c-TestObject Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1544084888993,
+            "changeTime": 1544084888993,
+            "contentHash": "9c9027a587d62cc77ef8c245abaadc3c85d49f9c"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4427,
+            "modifiedTime": 1544084888998,
+            "changeTime": 1544084888998,
+            "contentHash": "260a705bb8b11203593a8cc4e36d915645c42c1e"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4427,
+            "modifiedTime": 1544084889034,
+            "changeTime": 1544084889034,
+            "contentHash": "260a705bb8b11203593a8cc4e36d915645c42c1e"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18299,
+            "modifiedTime": 1544084889050,
+            "changeTime": 1544084889050,
+            "contentHash": "cd87de9d70ab344700e773edab02c71fdaa7075c"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4765,
+            "modifiedTime": 1544084889054,
+            "changeTime": 1544084889054,
+            "contentHash": "9556dac16064fde813c48785251dfad2779a9460"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\objects\\TestObject__c",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\objects\\TestObject__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544084888965,
+            "changeTime": 1544084888965,
+            "contentHash": "e2e265c58054dabee16068e3cd768a505548bb23"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544084888964,
+            "changeTime": 1544084888964,
+            "contentHash": "3057b42b7e7d9433284c7f467a1b6197f04d40f3"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544084888993,
+            "changeTime": 1544084888993,
+            "contentHash": "f1355109abe3b09066a8cb7ec712f7d109c56973"
+        }
+    ],
+    [
+        "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Shubham\\Daimler\\Salesforce DX\\VSCode\\TestProject2\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544084889054,
+            "changeTime": 1544084889054,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
